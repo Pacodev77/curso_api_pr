@@ -1,0 +1,15 @@
+/Users/pacodev/HolaMundoNet/bin/Debug/net9.0/HolaMundoNet
+/Users/pacodev/HolaMundoNet/bin/Debug/net9.0/HolaMundoNet.deps.json
+/Users/pacodev/HolaMundoNet/bin/Debug/net9.0/HolaMundoNet.runtimeconfig.json
+/Users/pacodev/HolaMundoNet/bin/Debug/net9.0/HolaMundoNet.dll
+/Users/pacodev/HolaMundoNet/bin/Debug/net9.0/HolaMundoNet.pdb
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.AssemblyInfoInputs.cache
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.AssemblyInfo.cs
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.csproj.CoreCompileInputs.cache
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.sourcelink.json
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.dll
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/refint/HolaMundoNet.dll
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.pdb
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/HolaMundoNet.genruntimeconfig.cache
+/Users/pacodev/HolaMundoNet/obj/Debug/net9.0/ref/HolaMundoNet.dll
